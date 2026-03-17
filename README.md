@@ -150,7 +150,7 @@ for target in targets:
 
 /*
 Program to implement the Random Forest Algorithm to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data.
-Developed by: Rytham Raj K R4
+Developed by: Rytham Raj K R
 RegisterNumber: 212225040350 
 */
 ```
